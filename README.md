@@ -1,2 +1,2 @@
 # Linear_regression
-handled various regression models
+Handled various regression models
